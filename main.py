@@ -1,6 +1,8 @@
 def check_age(age):
-    # Add your solution here!
-    pass
+    if age < 18:
+        return 'You are a teenager'
+    else:
+        return 'You are an adult'
 
 if __name__ == '__main__':
     print(check_age(20))  # Expected: You are an adult
