@@ -1,0 +1,2 @@
+## Conditional Expressions Challenge
+In this CodeStory, we're exploring conditional expressions in Python. Your task is to implement a function that takes an age as input and returns a message based on the age. If the age is less than 18, return 'You are a teenager'. Otherwise, return 'You are an adult'. Try to use conditional expressions to solve this challenge.
